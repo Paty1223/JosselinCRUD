@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "tZaMoc27F7k6Ix8amZ9m4o8wD77Zg4myQ2BTiOF4V49iD7Se7uD/TlLYawehhPOw7E7u7yZL67Qc+9k2waJPJg==",
+  "dgSpecHash": "U0eVdHvJWt7mZ2dzlQ50/41vuTbkqaVn/78YU1cbSjEhuhtF2LaHmxSLuxb0qmmbswUT7pctcjnD0DE9L7WgiQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\MINEDUCYT\\Desktop\\PRE\\JosselinCRUD\\JosselinEasyPOS\\Application\\Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

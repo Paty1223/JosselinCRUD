@@ -37,3 +37,5 @@ C:\Users\MINEDUCYT\Desktop\PRE\JosselinCRUD\JosselinEasyPOS\Web.API\obj\Debug\ne
 C:\Users\MINEDUCYT\Desktop\PRE\JosselinCRUD\JosselinEasyPOS\Web.API\obj\Debug\net7.0\Web.API.pdb
 C:\Users\MINEDUCYT\Desktop\PRE\JosselinCRUD\JosselinEasyPOS\Web.API\obj\Debug\net7.0\Web.API.genruntimeconfig.cache
 C:\Users\MINEDUCYT\Desktop\PRE\JosselinCRUD\JosselinEasyPOS\Web.API\obj\Debug\net7.0\ref\Web.API.dll
+C:\Users\MINEDUCYT\Desktop\PRE\JosselinCRUD\JosselinEasyPOS\Web.API\bin\Debug\net7.0\MediatR.dll
+C:\Users\MINEDUCYT\Desktop\PRE\JosselinCRUD\JosselinEasyPOS\Web.API\bin\Debug\net7.0\MediatR.Contracts.dll
